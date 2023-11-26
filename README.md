@@ -1,9 +1,11 @@
-# Final Project-P4DS
+# Final Project - Programming for Data Science
+# Class: 21KHDL1
+
 
 | MSSV     | Full Name        | Account                                         |
 | -------- | ---------------- | ----------------------------------------------- |
 | 21127050 | Tran Nguyen Huan | [knightstark7](https://github.com/knightstark7) |
-| 21127240 | Nguyen Phat Dat  |                                                 |
+| 21127240 | Nguyen Phat Dat  | [ImPhatDat](https://github.com/ImPhatDat)       |
 
 ---
 
