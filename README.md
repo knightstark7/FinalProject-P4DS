@@ -1,6 +1,9 @@
+
 # Final Project - Programming for Data Science
+
 # Class: 21KHDL1
 
+## Members
 
 | MSSV     | Full Name        | Account                                         |
 | -------- | ---------------- | ----------------------------------------------- |
@@ -9,4 +12,4 @@
 
 ---
 
-Link trello: https://trello.com/b/KBZQpttW/p4ds-final-project
+Kế hoạch làm việc: https://trello.com/b/KBZQpttW/p4ds-final-project
