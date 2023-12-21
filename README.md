@@ -12,4 +12,4 @@
 
 ---
 
-Kế hoạch làm việc: https://trello.com/b/KBZQpttW/p4ds-final-project
+Work Plan: https://trello.com/b/KBZQpttW/p4ds-final-project
